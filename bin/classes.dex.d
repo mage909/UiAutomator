@@ -1,0 +1,21 @@
+/home/jenkins/android_dev/UiAutomator/bin/classes.dex : \
+/home/jenkins/android_dev/UiAutomator/bin/classes/com/intel/SetEnglish.class \
+/home/jenkins/android_dev/UiAutomator/bin/classes/com/intel/FactoryReset.class \
+/home/jenkins/android_dev/UiAutomator/bin/classes/com/intel/VideoPlayback.class \
+/home/jenkins/android_dev/UiAutomator/bin/classes/com/intel/AndroidLWizard1.class \
+/home/jenkins/android_dev/UiAutomator/bin/classes/com/intel/AndroidLWizard2.class \
+/home/jenkins/android_dev/UiAutomator/bin/classes/com/intel/AndroidMWizard1.class \
+/home/jenkins/android_dev/UiAutomator/bin/classes/com/intel/ConnectAP.class \
+/home/jenkins/android_dev/UiAutomator/bin/classes/com/intel/AndroidMWizard2.class \
+/home/jenkins/android_dev/UiAutomator/bin/classes/com/intel/AndroidMSetup.class \
+/home/jenkins/android_dev/UiAutomator/bin/classes/com/intel/InitSettings.class \
+/home/jenkins/android_dev/UiAutomator/bin/classes/com/intel/Antutu.class \
+/home/jenkins/android_dev/UiAutomator/bin/classes/com/intel/Wizard1.class \
+/home/jenkins/android_dev/UiAutomator/bin/classes/com/intel/DefaultVideoPlayer.class \
+/home/jenkins/android_dev/UiAutomator/bin/classes/com/intel/ScreenDisplay_720.class \
+/home/jenkins/android_dev/UiAutomator/bin/classes/com/intel/CameraRecord.class \
+/home/jenkins/android_dev/UiAutomator/bin/classes/com/intel/AudioPlayback.class \
+/home/jenkins/android_dev/UiAutomator/bin/classes/com/intel/SetupSettings.class \
+/home/jenkins/android_dev/UiAutomator/bin/classes/com/intel/CameraSwitch.class \
+/home/jenkins/android_dev/UiAutomator/bin/classes/com/intel/AirPlane.class \
+/home/jenkins/android_dev/UiAutomator/bin/classes/com/intel/Wizard2.class \
